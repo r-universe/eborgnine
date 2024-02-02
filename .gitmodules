@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "diseasemapping"]
+	path = diseasemapping
+	url = https://github.com/cran/diseasemapping
+[submodule "geostatsp"]
+	path = geostatsp
+	url = https://github.com/cran/geostatsp
+[submodule "mapmisc"]
+	path = mapmisc
+	url = https://github.com/cran/mapmisc
