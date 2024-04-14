@@ -8,6 +8,3 @@
 [submodule "geostatsp"]
 	path = geostatsp
 	url = https://github.com/cran/geostatsp
-[submodule "mapmisc"]
-	path = mapmisc
-	url = https://github.com/cran/mapmisc
