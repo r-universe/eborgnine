@@ -1,13 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/eborgnine/eborgnine.r-universe.dev
 	branch = HEAD
-[submodule "diseasemapping"]
-	path = diseasemapping
-	url = https://github.com/cran/diseasemapping
-[submodule "geostatsp"]
-	path = geostatsp
-	url = https://github.com/cran/geostatsp
-[submodule "mapmisc"]
-	path = mapmisc
-	url = https://github.com/cran/mapmisc
+[submodule "adlaplace"]
+	path = adlaplace
+	url = https://github.com/eborgnine/adlaplace
+	subdir = adlaplace
+[submodule "adlaplaceExample"]
+	path = adlaplaceExample
+	url = https://github.com/eborgnine/adlaplace
+	subdir = adlaplaceExample
+[submodule "hpolcc"]
+	path = hpolcc
+	url = https://github.com/eborgnine/adlaplace
+	subdir = hpolcc
