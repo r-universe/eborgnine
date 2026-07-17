@@ -12,8 +12,23 @@
 	url = https://github.com/eborgnine/adlaplace
 	branch = main
 	subdir = adlaplace
-[submodule "admvn"]
-	path = admvn
+[submodule "adlaplaceExample"]
+	path = adlaplaceExample
 	url = https://github.com/eborgnine/adlaplace
 	branch = main
-	subdir = admvn
+	subdir = adlaplaceExample
+[submodule "adlaplaceGrf"]
+	path = adlaplaceGrf
+	url = https://github.com/eborgnine/adlaplace
+	branch = main
+	subdir = adlaplaceGrf
+[submodule "adlaplaceHgp"]
+	path = adlaplaceHgp
+	url = https://github.com/eborgnine/adlaplace
+	branch = main
+	subdir = adlaplaceHgp
+[submodule "hpolcc"]
+	path = hpolcc
+	url = https://github.com/eborgnine/adlaplace
+	branch = main
+	subdir = hpolcc
