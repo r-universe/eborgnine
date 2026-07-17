@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/eborgnine/eborgnine.r-universe.dev
 	branch = HEAD
+[submodule "RCppAD"]
+	path = RCppAD
+	url = https://github.com/eborgnine/adlaplace
+	subdir = RCppAD
 [submodule "adlaplace"]
 	path = adlaplace
 	url = https://github.com/eborgnine/adlaplace
@@ -10,6 +14,18 @@
 	path = adlaplaceExample
 	url = https://github.com/eborgnine/adlaplace
 	subdir = adlaplaceExample
+[submodule "adlaplaceGrf"]
+	path = adlaplaceGrf
+	url = https://github.com/eborgnine/adlaplace
+	subdir = adlaplaceGrf
+[submodule "adlaplaceHgp"]
+	path = adlaplaceHgp
+	url = https://github.com/eborgnine/adlaplace
+	subdir = adlaplaceHgp
+[submodule "admvn"]
+	path = admvn
+	url = https://github.com/eborgnine/adlaplace
+	subdir = admvn
 [submodule "hpolcc"]
 	path = hpolcc
 	url = https://github.com/eborgnine/adlaplace
