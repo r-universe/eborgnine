@@ -5,28 +5,35 @@
 [submodule "RCppAD"]
 	path = RCppAD
 	url = https://github.com/eborgnine/adlaplace
+	branch = main
 	subdir = RCppAD
 [submodule "adlaplace"]
 	path = adlaplace
 	url = https://github.com/eborgnine/adlaplace
+	branch = main
 	subdir = adlaplace
 [submodule "adlaplaceExample"]
 	path = adlaplaceExample
 	url = https://github.com/eborgnine/adlaplace
+	branch = main
 	subdir = adlaplaceExample
 [submodule "adlaplaceGrf"]
 	path = adlaplaceGrf
 	url = https://github.com/eborgnine/adlaplace
+	branch = main
 	subdir = adlaplaceGrf
 [submodule "adlaplaceHgp"]
 	path = adlaplaceHgp
 	url = https://github.com/eborgnine/adlaplace
+	branch = main
 	subdir = adlaplaceHgp
 [submodule "admvn"]
 	path = admvn
 	url = https://github.com/eborgnine/adlaplace
+	branch = main
 	subdir = admvn
 [submodule "hpolcc"]
 	path = hpolcc
 	url = https://github.com/eborgnine/adlaplace
+	branch = main
 	subdir = hpolcc
