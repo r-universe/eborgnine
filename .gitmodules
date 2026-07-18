@@ -17,11 +17,11 @@
 	url = https://github.com/eborgnine/adlaplace
 	branch = main
 	subdir = adlaplaceExample
-[submodule "adlaplaceGrf"]
-	path = adlaplaceGrf
+[submodule "adlaplaceFem"]
+	path = adlaplaceFem
 	url = https://github.com/eborgnine/adlaplace
 	branch = main
-	subdir = adlaplaceGrf
+	subdir = adlaplaceFem
 [submodule "adlaplaceHgp"]
 	path = adlaplaceHgp
 	url = https://github.com/eborgnine/adlaplace
