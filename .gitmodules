@@ -27,8 +27,20 @@
 	url = https://github.com/eborgnine/adlaplace
 	branch = main
 	subdir = adlaplaceHgp
+[submodule "diseasemapping"]
+	path = diseasemapping
+	url = https://github.com/r-forge/diseasemapping
+	subdir = pkg/diseasemapping
+[submodule "geostatsp"]
+	path = geostatsp
+	url = https://github.com/r-forge/diseasemapping
+	subdir = pkg/geostatsp
 [submodule "hpolcc"]
 	path = hpolcc
 	url = https://github.com/eborgnine/adlaplace
 	branch = main
 	subdir = hpolcc
+[submodule "mapmisc"]
+	path = mapmisc
+	url = https://github.com/r-forge/diseasemapping
+	subdir = pkg/mapmiscTerra
