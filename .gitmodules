@@ -27,6 +27,11 @@
 	url = https://github.com/eborgnine/adlaplace
 	branch = main
 	subdir = adlaplaceHgp
+[submodule "admvn"]
+	path = admvn
+	url = https://github.com/eborgnine/adlaplace
+	branch = main
+	subdir = admvn
 [submodule "diseasemapping"]
 	path = diseasemapping
 	url = https://github.com/r-forge/diseasemapping
